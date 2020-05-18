@@ -18,13 +18,13 @@ const Nav = () => {
       <div className="wrapper">
       <div className="header">
         <div className="navbar">
-          <Link to="/" className="logo">
+          <Link to="/html-css-into-react-app/" className="logo">
            
             <img className="logoReact" src={logo} alt="" />
           </Link>
           <ul className="nav-links">
             <li className="nav-item">
-              <Link to="/" className="navBar__item">
+              <Link to="/html-css-into-react-app/" className="navBar__item">
                 Home
               </Link>
             </li>
@@ -66,7 +66,7 @@ const Nav = () => {
           </ul>
 
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/html-css-into-react-app/">
               <Home />
             </Route>
             <Route path="/about">
