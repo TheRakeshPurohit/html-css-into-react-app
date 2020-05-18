@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/html-css-into-react-app/static/css/main.ee2db946.chunk.css",
+    "main.js": "/html-css-into-react-app/static/js/main.3e167fa8.chunk.js",
+    "main.js.map": "/html-css-into-react-app/static/js/main.3e167fa8.chunk.js.map",
+    "runtime-main.js": "/html-css-into-react-app/static/js/runtime-main.b060ecd8.js",
+    "runtime-main.js.map": "/html-css-into-react-app/static/js/runtime-main.b060ecd8.js.map",
+    "static/js/2.8cd756d6.chunk.js": "/html-css-into-react-app/static/js/2.8cd756d6.chunk.js",
+    "static/js/2.8cd756d6.chunk.js.map": "/html-css-into-react-app/static/js/2.8cd756d6.chunk.js.map",
+    "index.html": "/html-css-into-react-app/index.html",
+    "precache-manifest.93eab99c75731471523dc8062c9e2f3b.js": "/html-css-into-react-app/precache-manifest.93eab99c75731471523dc8062c9e2f3b.js",
+    "service-worker.js": "/html-css-into-react-app/service-worker.js",
+    "static/css/main.ee2db946.chunk.css.map": "/html-css-into-react-app/static/css/main.ee2db946.chunk.css.map",
+    "static/js/2.8cd756d6.chunk.js.LICENSE.txt": "/html-css-into-react-app/static/js/2.8cd756d6.chunk.js.LICENSE.txt",
+    "static/media/blog.png": "/html-css-into-react-app/static/media/blog.923f4d52.png",
+    "static/media/blogFeatureImg.jpg": "/html-css-into-react-app/static/media/blogFeatureImg.677f377a.jpg",
+    "static/media/blogFeatureImg2.jpg": "/html-css-into-react-app/static/media/blogFeatureImg2.d67f3b0f.jpg",
+    "static/media/blogFeatureImg3.jpg": "/html-css-into-react-app/static/media/blogFeatureImg3.4e4fbc44.jpg",
+    "static/media/feature.jpg": "/html-css-into-react-app/static/media/feature.127c4a36.jpg",
+    "static/media/section-3Img.jpg": "/html-css-into-react-app/static/media/section-3Img.41a02745.jpg",
+    "static/media/section.jpg": "/html-css-into-react-app/static/media/section.6ede9417.jpg",
+    "static/media/team.jpg": "/html-css-into-react-app/static/media/team.227970d3.jpg",
+    "static/media/undraw_helpful_sign_s6al.svg": "/html-css-into-react-app/static/media/undraw_helpful_sign_s6al.2c93205b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b060ecd8.js",
+    "static/js/2.8cd756d6.chunk.js",
+    "static/css/main.ee2db946.chunk.css",
+    "static/js/main.3e167fa8.chunk.js"
+  ]
+}
