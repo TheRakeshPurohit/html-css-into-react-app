@@ -29,27 +29,27 @@ const Nav = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/about" className="navBar__item">
+              <Link to="/html-css-into-react-app/about" className="navBar__item">
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/services" className="navBar__item">
+              <Link to="/html-css-into-react-app/services" className="navBar__item">
                 Services
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/projects" className="navBar__item">
+              <Link to="/html-css-into-react-app/projects" className="navBar__item">
                 Projects
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/pricing" className="navBar__item">
+              <Link to="/html-css-into-react-app/pricing" className="navBar__item">
                 Pricing
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/contact" className="navBar__item">
+              <Link to="/html-css-into-react-app/contact" className="navBar__item">
                 Contact
               </Link>
             </li>
@@ -69,19 +69,19 @@ const Nav = () => {
             <Route exact path="/html-css-into-react-app/">
               <Home />
             </Route>
-            <Route path="/about">
+            <Route path="/html-css-into-react-app/about">
               <About />
             </Route>
-            <Route path="/services">
+            <Route path="/html-css-into-react-app/services">
               <Services />
             </Route>
-            <Route path="/projects">
+            <Route path="/html-css-into-react-app/projects">
               <Projects />
             </Route>
-            <Route path="/pricing">
+            <Route path="/html-css-into-react-app/pricing">
               <Pricing />
             </Route>
-            <Route path="/contact">
+            <Route path="/html-css-into-react-app/contact">
               <Contact />
             </Route>
           </Switch>
